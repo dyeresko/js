@@ -23,3 +23,4 @@ function makeUser(name, age)
 // alert(bag[[fruit]]);
 let user = makeUser("John", 30);
 alert(user.age);
+alert("hello");
