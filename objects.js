@@ -22,4 +22,4 @@ function makeUser(name, age)
 // let bag = {[fruit]: 5};
 // alert(bag[[fruit]]);
 let user = makeUser("John", 30);
-alert(user.name);
+alert(user.age);
